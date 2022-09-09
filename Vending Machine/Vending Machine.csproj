@@ -43,13 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="GUI.cs" />
-    <Compile Include="MoneyInput.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UI.cs" />
     <Compile Include="VendingMachine.cs" />
-    <Compile Include="WareCushion.cs" />
-    <Compile Include="WareInputter.cs" />
     <Compile Include="Wares.cs" />
   </ItemGroup>
   <ItemGroup>
